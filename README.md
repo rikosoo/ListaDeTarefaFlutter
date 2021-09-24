@@ -41,7 +41,7 @@ A new Flutter application from Henrique.
     - Você terá 2 segundo para desfazer a ação e a tarefa voltar.
 
 
-    Criando este projeto para criar um aplicativo de lista de tarefa.
+    Criando este projeto para criar um aplicativo de lista de tarefa para aprofundar conhecimentos em Flutter.
 
 
 
